@@ -1,2 +1,2 @@
 # Job-bee
-It is a job suggestion website
+It is a job suggestion website which is still in development. 
